@@ -1,0 +1,38 @@
+.body-class{
+    background-color:gray;
+}
+.header-class{
+    color:aliceblue;
+    background-color:dimgrey;
+}
+.nav-class{
+    background-color:dimgray;
+    color:aliceblue;
+    font-weight:bold;
+}
+a{
+    color:aliceblue;
+}
+.title-class{
+    color:aliceblue;
+}
+.section-title-class{
+    color:antiquewhite;
+}
+.text-class{
+    color:white;
+}
+.image-class{
+    border:solid;
+    border-color:aliceblue;
+}
+.form-class{
+    color:aliceblue;
+}
+.button-class{
+    color:gray;
+}
+.footer-class{
+    background-color:dimgray;
+    color:antiquewhite;
+}
